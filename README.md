@@ -1,5 +1,7 @@
 # 414Video
 ![alt text](http://scottschmeling.com/414Video/img/logo.png)
+
+
 A php site made for a class. The project was a fictional Video Rental Store
 
 For the project, no frameworks, CMS, or Javascript was allowed to be used.
